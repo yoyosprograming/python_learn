@@ -14,5 +14,5 @@ obj2 = Singleton()
 
 print(obj1, obj2)  # <__main__.Singleton object at 0x004415F0> <__main__.Singleton object at 0x004415F0>
 
-print(obj1)
-print(obj2)
+print(obj1)  # <__main__.Singleton object at 0x028A55B0>
+print(obj2)  # <__main__.Singleton object at 0x028A55B0>
