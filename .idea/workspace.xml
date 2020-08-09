@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f944ab2d-6b79-4a80-994b-d72c5ee46bb0" name="Default Changelist" comment="理解面向对象编程">
-      <change afterPath="$PROJECT_DIR$/04.Design.Patterns.20200809/sample2.py" afterDir="false" />
+    <list default="true" id="f944ab2d-6b79-4a80-994b-d72c5ee46bb0" name="Default Changelist" comment="面向对象编程的主要概念：&#10;1、封装&#10;2、多态&#10;3、继承">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.Design.Patterns.20200809/sample2.py" beforeDir="false" afterPath="$PROJECT_DIR$/04.Design.Patterns.20200809/sample2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596979739379</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="面向对象编程的主要概念：&#10;1、封装&#10;2、多态&#10;3、继承">
+      <created>1596981704354</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596981704354</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -278,7 +285,8 @@
     <MESSAGE value="2nd. update the pattern by python" />
     <MESSAGE value="3nd. update the pattern by python" />
     <MESSAGE value="理解面向对象编程" />
-    <option name="LAST_COMMIT_MESSAGE" value="理解面向对象编程" />
+    <MESSAGE value="面向对象编程的主要概念：&#10;1、封装&#10;2、多态&#10;3、继承" />
+    <option name="LAST_COMMIT_MESSAGE" value="面向对象编程的主要概念：&#10;1、封装&#10;2、多态&#10;3、继承" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -292,26 +300,46 @@
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="817" y="259" key="EnvironmentVariablesDialog/0.0.1920.999@0.0.1920.999" timestamp="1596810267571" />
-    <state width="1899" height="178" key="GridCell.Tab.0.bottom" timestamp="1596981624232">
+    <state width="1899" height="178" key="GridCell.Tab.0.bottom" timestamp="1596983107124">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1899" height="178" key="GridCell.Tab.0.bottom/0.0.1920.999@0.0.1920.999" timestamp="1596981624232" />
-    <state width="1899" height="178" key="GridCell.Tab.0.center" timestamp="1596981624232">
+    <state width="1899" height="178" key="GridCell.Tab.0.bottom/0.0.1920.999@0.0.1920.999" timestamp="1596983107124" />
+    <state width="1899" height="178" key="GridCell.Tab.0.center" timestamp="1596983107124">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1899" height="178" key="GridCell.Tab.0.center/0.0.1920.999@0.0.1920.999" timestamp="1596981624232" />
-    <state width="1899" height="178" key="GridCell.Tab.0.left" timestamp="1596981624232">
+    <state width="1899" height="178" key="GridCell.Tab.0.center/0.0.1920.999@0.0.1920.999" timestamp="1596983107124" />
+    <state width="1899" height="178" key="GridCell.Tab.0.left" timestamp="1596983107124">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1899" height="178" key="GridCell.Tab.0.left/0.0.1920.999@0.0.1920.999" timestamp="1596981624232" />
-    <state width="1899" height="178" key="GridCell.Tab.0.right" timestamp="1596981624232">
+    <state width="1899" height="178" key="GridCell.Tab.0.left/0.0.1920.999@0.0.1920.999" timestamp="1596983107124" />
+    <state width="1899" height="178" key="GridCell.Tab.0.right" timestamp="1596983107124">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1899" height="178" key="GridCell.Tab.0.right/0.0.1920.999@0.0.1920.999" timestamp="1596981624232" />
+    <state width="1899" height="178" key="GridCell.Tab.0.right/0.0.1920.999@0.0.1920.999" timestamp="1596983107124" />
+    <state width="1899" height="182" key="GridCell.Tab.1.bottom" timestamp="1596983061083">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1899" height="182" key="GridCell.Tab.1.bottom/0.0.1920.999@0.0.1920.999" timestamp="1596983061083" />
+    <state width="1899" height="182" key="GridCell.Tab.1.center" timestamp="1596983061083">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1899" height="182" key="GridCell.Tab.1.center/0.0.1920.999@0.0.1920.999" timestamp="1596983061083" />
+    <state width="1899" height="182" key="GridCell.Tab.1.left" timestamp="1596983061083">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1899" height="182" key="GridCell.Tab.1.left/0.0.1920.999@0.0.1920.999" timestamp="1596983061083" />
+    <state width="1899" height="182" key="GridCell.Tab.1.right" timestamp="1596983061083">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1899" height="182" key="GridCell.Tab.1.right/0.0.1920.999@0.0.1920.999" timestamp="1596983061083" />
     <state x="461" y="144" key="SettingsEditor" timestamp="1596810590472">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="461" y="144" key="SettingsEditor/0.0.1920.999@0.0.1920.999" timestamp="1596810590472" />
+    <state x="552" y="232" key="Vcs.Push.Dialog.v2" timestamp="1596981755259">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="552" y="232" key="Vcs.Push.Dialog.v2/0.0.1920.999@0.0.1920.999" timestamp="1596981755259" />
     <state x="623" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1596979455313">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
